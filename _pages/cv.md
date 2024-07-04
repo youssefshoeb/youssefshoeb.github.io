@@ -14,7 +14,7 @@ Education
 <ul style="list-style-type: none; padding: 0;">
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
+            <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
                 <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
             </ul>
@@ -23,7 +23,7 @@ Education
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
+            <span><strong>M.Sc. in Computer Science</strong>, Universität Bonn, 2022</span>
             <ul>
                 <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
                 <li>Cumulative GPA: </li>
@@ -33,7 +33,7 @@ Education
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
+            <span><strong>B.Sc. in Computer Science</strong>, German University in Cairo, 2020</span>
             <ul>
                 <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
                 <li>Cumulative GPA: </li>
@@ -50,7 +50,7 @@ Work experience
 <ul style="list-style-type: none; padding: 0;">
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>Sept 2022 - Present : Machine Learning Researcher</span>
+            <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
                 <li>Continental AG</li>
                 <li>Duties include: Updates and improvements to template</li>
@@ -61,7 +61,7 @@ Work experience
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>Nov 2020 - July 2022: Research Assistant</span>
+            <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Fraunhofer FKIE</li>
                 <li>Duties included: Merging pull requests</li>
@@ -72,7 +72,7 @@ Work experience
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
-            <span>Feb 2019 - July 2019: Research Assistant</span>
+            <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Technische Universität Dresden</li>
                 <li>Duties included: Tagging issues</li>
@@ -82,6 +82,7 @@ Work experience
         <img src="/images/tudresden.png" alt="Technische Universität Dresden" style="width: 200px; height: auto;"/>
     </li>
 </ul>
+
 Skills
 ======
 * Skill 1
