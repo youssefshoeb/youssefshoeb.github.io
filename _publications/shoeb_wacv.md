@@ -21,7 +21,8 @@ date: 2024-01-01
 venue: 'Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://youssefshoeb.github.io/files/Shoeb_Have_We_Ever_Encountered_This_Before_Retrieving_Out-of-Distribution_Road_Obstacles_WACV_2024_paper.pdf'
-citation: 'Shoeb, et al. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Shoeb, et al. (2024). &quot;Have We Ever Encountered This Before?
+Retrieving Out-of-Distribution Road Obstacles from Driving Scenes.&quot; <i>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
