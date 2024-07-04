@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-<ul>
+<ul style="list-style-type: none; padding: 0;">
     <li>
-        <div style="display: flex; align-items: flex-start;">
+        <div style="display: flex; align-items: flex-start; flex-direction: column;">
             <div>
                 <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
                 <ul>
                     <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
                 </ul>
             </div>
-            <img src="/images/tu_berlin.png" alt="TU Berlin" style="margin-left: 10px; width: 200px; height: auto;"/>
+            <img src="/images/tuberlin.png" alt="TU Berlin" style="margin-top: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
     <li>
-        <div style="display: flex; align-items: flex-start;">
+        <div style="display: flex; align-items: flex-start; flex-direction: column;">
             <div>
                 <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
                 <ul>
@@ -32,11 +32,11 @@ Education
                     <li>Cumulative GPA: </li>
                 </ul>
             </div>
-            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-left: 10px; width: 200px; height: auto;"/>
+            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-top: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
     <li>
-        <div style="display: flex; align-items: flex-start;">
+        <div style="display: flex; align-items: flex-start; flex-direction: column;">
             <div>
                 <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
                 <ul>
@@ -44,7 +44,7 @@ Education
                     <li>Cumulative GPA: </li>
                 </ul>
             </div>
-            <img src="/images/guc.png" alt="GUC" style="margin-left: 10px; width: 200px; height: auto;"/>
+            <img src="/images/guc.png" alt="GUC" style="margin-top: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
 </ul>
