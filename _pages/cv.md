@@ -12,42 +12,37 @@ redirect_from:
 Education
 ======
 <ul style="list-style-type: none; padding: 0;">
-    <li>
-        <div style="display: flex; align-items: flex-start; flex-direction: column;">
-            <div>
-                <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
-                <ul>
-                    <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
-                </ul>
-            </div>
-            <img src="/images/tuberlin.png" alt="TU Berlin" style="margin-top: 10px; width: 200px; height: auto;"/>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
+            <ul>
+                <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
+            </ul>
         </div>
+        <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 200px; height: auto;"/>
     </li>
-    <li>
-        <div style="display: flex; align-items: flex-start; flex-direction: column;">
-            <div>
-                <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
-                <ul>
-                    <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
-                    <li>Cumulative GPA: </li>
-                </ul>
-            </div>
-            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-top: 10px; width: 200px; height: auto;"/>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
+            <ul>
+                <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
+                <li>Cumulative GPA: </li>
+            </ul>
         </div>
+        <img src="/images/uni_bonn.png" alt="University of Bonn" style="width: 200px; height: auto;"/>
     </li>
-    <li>
-        <div style="display: flex; align-items: flex-start; flex-direction: column;">
-            <div>
-                <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
-                <ul>
-                    <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
-                    <li>Cumulative GPA: </li>
-                </ul>
-            </div>
-            <img src="/images/guc.png" alt="GUC" style="margin-top: 10px; width: 200px; height: auto;"/>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
+            <ul>
+                <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
+                <li>Cumulative GPA: </li>
+            </ul>
         </div>
+        <img src="/images/guc.png" alt="GUC" style="width: 200px; height: auto;"/>
     </li>
 </ul>
+
 
 
 Work experience
