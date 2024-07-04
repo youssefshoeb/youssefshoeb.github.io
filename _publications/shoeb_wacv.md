@@ -2,7 +2,7 @@
 title: "Have We Ever Encountered This Before?
 Retrieving Out-of-Distribution Road Obstacles from Driving Scenes"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/shoeb_wacv24
 excerpt: 'In the life cycle of highly automated systems operating
 in an open and dynamic environment, the ability to adjust
 to emerging challenges is crucial. For systems integrating data-driven AI-based components, rapid responses to
@@ -17,7 +17,7 @@ method leverages the recent advances in OoD segmentation and multi-modal foundat
 We present a first approach for the novel task of text-based
 OoD object retrieval, which addresses the question “Have
 we ever encountered this before?”'
-date: 2024-01-01
+date: 2024-01-04
 venue: 'Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://youssefshoeb.github.io/files/Shoeb_Have_We_Ever_Encountered_This_Before_Retrieving_Out-of-Distribution_Road_Obstacles_WACV_2024_paper.pdf'
