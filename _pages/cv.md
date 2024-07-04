@@ -47,21 +47,41 @@ Education
 
 Work experience
 ======
-* Sept 2022 - Present : Machine Learning Researcher
-  * Continental AG
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Nov 2020 - July 2022: Research Assistant
-  * Fraunhofer FKIE
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+<ul style="list-style-type: none; padding: 0;">
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>Sept 2022 - Present : Machine Learning Researcher</span>
+            <ul>
+                <li>Continental AG</li>
+                <li>Duties include: Updates and improvements to template</li>
+                <li>Supervisor: The Users</li>
+            </ul>
+        </div>
+        <img src="/images/conti.png" alt="Continental AG" style="width: 200px; height: auto;"/>
+    </li>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>Nov 2020 - July 2022: Research Assistant</span>
+            <ul>
+                <li>Fraunhofer FKIE</li>
+                <li>Duties included: Merging pull requests</li>
+                <li>Supervisor: Professor Hub</li>
+            </ul>
+        </div>
+        <img src="/images/franuhofer_fkie.png" alt="Fraunhofer FKIE" style="width: 200px; height: auto;"/>
+    </li>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span>Feb 2019 - July 2019: Research Assistant</span>
+            <ul>
+                <li>Technische Universität Dresden</li>
+                <li>Duties included: Tagging issues</li>
+                <li>Supervisor: Professor Git</li>
+            </ul>
+        </div>
+        <img src="/images/tudresden.png" alt="Technische Universität Dresden" style="width: 200px; height: auto;"/>
+    </li>
+</ul>
 Skills
 ======
 * Skill 1
