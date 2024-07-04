@@ -16,13 +16,13 @@ Education
 # * B.Sc. in Computer Science, German University in Cairo, 2020
 <ul>
     <li>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)
-        <img src="tu_berlin.png" alt="TU Berlin" style="float:right;width:30px;height:auto;"/>
+        <img src="images/tu_berlin.png" alt="TU Berlin" style="float:right;width:30px;height:auto;"/>
     </li>
     <li>M.Sc. in Computer Science, Universität Bonn, 2022
-        <img src="uni_bonn.png" alt="University of Bonn" style="float:right;width:30px;height:auto;"/>
+        <img src="images/uni_bonn.png" alt="University of Bonn" style="float:right;width:30px;height:auto;"/>
     </li>
     <li>B.Sc. in Computer Science, German University in Cairo, 2020
-        <img src="guc.png" alt="GUC" style="float:right;width:30px;height:auto;"/>
+        <img src="images/guc.png" alt="GUC" style="float:right;width:30px;height:auto;"/>
     </li>
 </ul>
 
@@ -74,4 +74,4 @@ Teaching
 Professional Service
 ======
 * Reviewer
-  * Conferences:  [British Machine Vision Conference (BMVC)](https://bmvc2024.org/) [IEEE Intelligent Vehicles Symposium (IV) 2024](https://ieee-iv.org/2024/aes-and-revewers/), [IEEE Intelligent Transportation Systems Conference (ITSC) 2024](https://ieee-itsc.org/2024/) 
+  * Conferences:  [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), [IEEE Intelligent Vehicles Symposium (IV) 2024](https://ieee-iv.org/2024/aes-and-revewers/), [IEEE Intelligent Transportation Systems Conference (ITSC) 2024](https://ieee-itsc.org/2024/) 
