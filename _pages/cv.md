@@ -13,21 +13,38 @@ Education
 ======
 <ul>
     <li>
-        <div style="display: flex; align-items: center;">
-            <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
-            <img src="/images/tu_berlin.png" alt="TU Berlin" style="margin-left: auto; width: 250px; height: auto;"/>
+        <div style="display: flex; align-items: flex-start;">
+            <div>
+                <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
+                <ul>
+                    <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
+                </ul>
+            </div>
+            <img src="/images/tu_berlin.png" alt="TU Berlin" style="margin-left: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
     <li>
-        <div style="display: flex; align-items: center;">
-            <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
-            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-left: auto; width: 250px; height: auto;"/>
+        <div style="display: flex; align-items: flex-start;">
+            <div>
+                <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
+                <ul>
+                    <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
+                    <li>Cumulative GPA: </li>
+                </ul>
+            </div>
+            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-left: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
     <li>
-        <div style="display: flex; align-items: center;">
-            <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
-            <img src="/images/guc.png" alt="GUC" style="margin-left: auto; width: 250px; height: auto;"/>
+        <div style="display: flex; align-items: flex-start;">
+            <div>
+                <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
+                <ul>
+                    <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
+                    <li>Cumulative GPA: </li>
+                </ul>
+            </div>
+            <img src="/images/guc.png" alt="GUC" style="margin-left: 10px; width: 200px; height: auto;"/>
         </div>
     </li>
 </ul>
