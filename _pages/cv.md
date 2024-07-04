@@ -11,19 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+# * Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)
+# * M.Sc. in Computer Science, Universität Bonn, 2022
+# * B.Sc. in Computer Science, German University in Cairo, 2020
+<ul>
+    <li>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)
+        <img src="tu_berlin.png" alt="TU Berlin" style="float:right;width:30px;height:auto;"/>
+    </li>
+    <li>M.Sc. in Computer Science, Universität Bonn, 2022
+        <img src="uni_bonn.png" alt="University of Bonn" style="float:right;width:30px;height:auto;"/>
+    </li>
+    <li>B.Sc. in Computer Science, German University in Cairo, 2020
+        <img src="guc.png" alt="GUC" style="float:right;width:30px;height:auto;"/>
+    </li>
+</ul>
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Sept 2022 - Present : Machine Learning Researcher
+  * Continental AG
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Nov 2020 - July 2022: Research Assistant
+  * Fraunhofer FKIE
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
