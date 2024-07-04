@@ -12,14 +12,23 @@ redirect_from:
 Education
 ======
 <ul>
-    <li>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)
-        <img src="/images/tu_berlin.png" alt="TU Berlin" style="float:right;width:300px;height:auto;"/>
+    <li>
+        <div style="display: flex; align-items: center;">
+            <span>Ph.D in Computer Science, Technische Universität Berlin, 2025 (expected)</span>
+            <img src="/images/tu_berlin.png" alt="TU Berlin" style="margin-left: auto; width: 30px; height: auto;"/>
+        </div>
     </li>
-    <li>M.Sc. in Computer Science, Universität Bonn, 2022
-        <img src="/images/uni_bonn.png" alt="University of Bonn" style="float:right;width:300px;height:auto;"/>
+    <li>
+        <div style="display: flex; align-items: center;">
+            <span>M.Sc. in Computer Science, Universität Bonn, 2022</span>
+            <img src="/images/uni_bonn.png" alt="University of Bonn" style="margin-left: auto; width: 30px; height: auto;"/>
+        </div>
     </li>
-    <li>B.Sc. in Computer Science, German University in Cairo, 2020
-        <img src="/images/guc.png" alt="GUC" style="float:right;width:300px;height:auto;"/>
+    <li>
+        <div style="display: flex; align-items: center;">
+            <span>B.Sc. in Computer Science, German University in Cairo, 2020</span>
+            <img src="/images/guc.png" alt="GUC" style="margin-left: auto; width: 30px; height: auto;"/>
+        </div>
     </li>
 </ul>
 
