@@ -21,7 +21,7 @@ Education
             </ul>
         </div>
         <a href="https://www.tu.berlin/en/milz">
-        <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 125px; height: auto;"/>
+        <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 150px; height: auto;"/>
         </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
