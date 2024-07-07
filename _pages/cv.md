@@ -69,7 +69,9 @@ Work experience
                 <li>Supervisor: The Users</li>
             </ul>
         </div>
+        <a href="https://www.continental-automotive.com/en.html">
         <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: auto;"/>
+        </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
@@ -80,7 +82,9 @@ Work experience
                 <li>Supervisor: Professor Hub</li>
             </ul>
         </div>
+        <a href="https://www.fkie.fraunhofer.de/en.html">
         <img src="/images/franuhofer_fkie.png" alt="Fraunhofer FKIE" style="width: 150px; height: auto;"/>
+        </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
@@ -91,7 +95,9 @@ Work experience
                 <li>Supervisor: Professor Git</li>
             </ul>
         </div>
+        <a href="https://tu-dresden.de/zih">
         <img src="/images/zih_logo.png" alt="ZIH" style="width: 150px; height: auto;"/>
+        </a>
     </li>
 </ul>
 
