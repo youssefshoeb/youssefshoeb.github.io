@@ -20,7 +20,9 @@ Education
                 <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
+        <a href="https://www.tu.berlin/en/milz">
         <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 125px; height: auto;"/>
+        </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
@@ -32,7 +34,9 @@ Education
                 <li>Cumulative GPA: </li>
             </ul>
         </div>
+        <a href="https://www.informatik.uni-bonn.de/en/homepage">
         <img src="/images/uni_bonn.png" alt="University of Bonn" style="width: 150px; height: auto;"/>
+        </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
@@ -41,7 +45,9 @@ Education
                 <li>Cumulative GPA: </li>
             </ul>
         </div>
+        <a href="https://www.guc.edu.eg/en/academic_programs/programs/program_details.aspx?programId=4">
         <img src="/images/guc.png" alt="GUC" style="width: 150px; height: auto;"/>
+        </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
@@ -51,7 +57,9 @@ Education
                 <li>Supervisor: Prof. Wolfgang E. Nagel, Prof.Slim Abdennadher </li>
             </ul>
         </div>
+        <a href="https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/">
         <img src="/images/tudresden.png" alt="TU Dresden" style="width: 150px; height: auto;"/>
+        </a>
     </li>
 </ul>
 
