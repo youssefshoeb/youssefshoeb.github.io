@@ -17,29 +17,41 @@ Education
             <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
                 <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
+                <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
-        <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 200px; height: auto;"/>
+        <img src="/images/tuberlin.png" alt="TU Berlin" style="width: 125px; height: auto;"/>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span><strong>M.Sc. in Computer Science</strong>, Universität Bonn, 2022</span>
             <ul>
                 <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
+                <li>Supervisor: Dr. Michael Gerz, Prof. Dr. Petra Mutzel </li>
+                <li>Awards: AFCEA Bonn e.V 3rd place master thesis award</li>
                 <li>Cumulative GPA: </li>
             </ul>
         </div>
-        <img src="/images/uni_bonn.png" alt="University of Bonn" style="width: 200px; height: auto;"/>
+        <img src="/images/uni_bonn.png" alt="University of Bonn" style="width: 150px; height: auto;"/>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span><strong>B.Sc. in Computer Science</strong>, German University in Cairo, 2020</span>
             <ul>
-                <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
                 <li>Cumulative GPA: </li>
             </ul>
         </div>
-        <img src="/images/guc.png" alt="GUC" style="width: 200px; height: auto;"/>
+        <img src="/images/guc.png" alt="GUC" style="width: 150px; height: auto;"/>
+    </li>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
+            <span><strong>Bachleor Thesis</strong>, Technische Universität Dresden, 2019</span>
+            <ul>
+                <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
+                <li>Supervisor: Prof. Wolfgang E. Nagel, Prof.Slim Abdennadher </li>
+            </ul>
+        </div>
+        <img src="/images/tudresden.png" alt="TU Dresden" style="width: 150px; height: auto;"/>
     </li>
 </ul>
 
@@ -52,34 +64,34 @@ Work experience
         <div>
             <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
-                <li>Continental AG</li>
+                <li>Continental AG, <span style="color: grey; font-size: smaller;">Berlin, Germany</span> </li>
                 <li>Duties include: Updates and improvements to template</li>
                 <li>Supervisor: The Users</li>
             </ul>
         </div>
-        <img src="/images/conti.png" alt="Continental AG" style="width: 200px; height: auto;"/>
+        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: auto;"/>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
-                <li>Fraunhofer FKIE</li>
+                <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">Bonn, Germany</span></li>
                 <li>Duties included: Merging pull requests</li>
                 <li>Supervisor: Professor Hub</li>
             </ul>
         </div>
-        <img src="/images/franuhofer_fkie.png" alt="Fraunhofer FKIE" style="width: 200px; height: auto;"/>
+        <img src="/images/franuhofer_fkie.png" alt="Fraunhofer FKIE" style="width: 150px; height: auto;"/>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
             <ul>
-                <li>Technische Universität Dresden</li>
+                <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">Dresden, Germany</span></li>
                 <li>Duties included: Tagging issues</li>
                 <li>Supervisor: Professor Git</li>
             </ul>
         </div>
-        <img src="/images/tudresden.png" alt="Technische Universität Dresden" style="width: 200px; height: auto;"/>
+        <img src="/images/zih_logo.png" alt="ZIH" style="width: 150px; height: auto;"/>
     </li>
 </ul>
 
