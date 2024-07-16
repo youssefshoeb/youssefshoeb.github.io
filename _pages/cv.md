@@ -31,7 +31,7 @@ Education
                 <li>Thesis: "Link Prediction for Dynamic Communications Networks using Graph Neural Networks"</li>
                 <li>Supervisor: Dr. Michael Gerz, Prof. Dr. Petra Mutzel </li>
                 <li>Awards: AFCEA Bonn e.V 3rd place master thesis award</li>
-                <li>Cumulative GPA: </li>
+                <li>Cumulative GPA: (1.2/5) </li>
             </ul>
         </div>
         <a href="https://www.informatik.uni-bonn.de/en/homepage">
@@ -42,7 +42,7 @@ Education
         <div>
             <span><strong>B.Sc. in Computer Science</strong>, German University in Cairo, 2020</span>
             <ul>
-                <li>Cumulative GPA: </li>
+                <li>Cumulative GPA: (1.28/5) -Excellent with High Honors-</li>
             </ul>
         </div>
         <a href="https://www.guc.edu.eg/en/academic_programs/programs/program_details.aspx?programId=4">
@@ -54,7 +54,7 @@ Education
             <span><strong>Bachleor Thesis</strong>, Technische Universität Dresden, 2019</span>
             <ul>
                 <li>Thesis: "Evaluation of Classifiers using Resampling Methods"</li>
-                <li>Supervisor: Prof. Wolfgang E. Nagel, Prof.Slim Abdennadher </li>
+                <li>Supervisor: Prof. Dr. Wolfgang E. Nagel, Prof. Dr. Slim Abdennadher </li>
             </ul>
         </div>
         <a href="https://tu-dresden.de/ing/informatik/ti/professur-fuer-rechnerarchitektur/">
@@ -72,9 +72,7 @@ Work experience
         <div>
             <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
-                <li>Continental AG, <span style="color: grey; font-size: smaller;">Berlin, Germany</span> </li>
-                <li>Duties include: Updates and improvements to template</li>
-                <li>Supervisor: The Users</li>
+                <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
@@ -85,9 +83,7 @@ Work experience
         <div>
             <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
-                <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">Bonn, Germany</span></li>
-                <li>Duties included: Merging pull requests</li>
-                <li>Supervisor: Professor Hub</li>
+                <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">(Bonn, Germany)</span></li>
             </ul>
         </div>
         <a href="https://www.fkie.fraunhofer.de/en.html">
@@ -98,9 +94,7 @@ Work experience
         <div>
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
             <ul>
-                <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">Dresden, Germany</span></li>
-                <li>Duties included: Tagging issues</li>
-                <li>Supervisor: Professor Git</li>
+                <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">(Dresden, Germany)</span></li>
             </ul>
         </div>
         <a href="https://tu-dresden.de/zih">
