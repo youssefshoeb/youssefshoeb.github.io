@@ -133,4 +133,4 @@ Teaching
 Professional Service
 ======
 * Reviewer
-  * Conferences:  [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), [IEEE Intelligent Vehicles Symposium (IV) 2024](https://ieee-iv.org/2024/aes-and-revewers/), [IEEE Intelligent Transportation Systems Conference (ITSC) 2024](https://ieee-itsc.org/2024/) 
+  * Conferences:  [Winter Conference on Applications of Computer Vision (WACV) 2025](https://wacv2025.thecvf.com/), [British Machine Vision Conference (BMVC) 2024](https://bmvc2024.org/), [IEEE Intelligent Vehicles Symposium (IV) 2024](https://ieee-iv.org/2024/aes-and-revewers/), [IEEE Intelligent Transportation Systems Conference (ITSC) 2024](https://ieee-itsc.org/2024/) 
