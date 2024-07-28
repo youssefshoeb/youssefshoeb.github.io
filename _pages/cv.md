@@ -73,6 +73,8 @@ Work experience
             <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
                 <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
+                <li>Uncertainty estimation and run-time network monitoring</li>
+                <li>Out-of-distribution detection, tracking, and retrieval</li>
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
@@ -84,6 +86,8 @@ Work experience
             <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">(Bonn, Germany)</span></li>
+                <li>Graph Neural Networks for simulation of 5G communications networks</li>
+                <li>Deep reinforcement learning for strategical games</li>
             </ul>
         </div>
         <a href="https://www.fkie.fraunhofer.de/en.html">
@@ -95,6 +99,8 @@ Work experience
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">(Dresden, Germany)</span></li>
+                <li>Investigated the use of deep learning methods in a distributed computing environment</li>
+                <li>Comparison of different model and data parallelism techniques for different architectures  </li>
             </ul>
         </div>
         <a href="https://tu-dresden.de/zih">
