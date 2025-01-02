@@ -115,11 +115,7 @@ Skills
 ======
 * Python (NumPy, Pytorch)
 * C/C++ (CUDA)
-<!--  * Sub-skill 2.1 
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
--->
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -138,6 +134,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->  
+
 Professional Service
 ======
 * Reviewer
