@@ -1,6 +1,6 @@
 ---
 title: "Retrieval of Out-of-Distribution Objects"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Wacv-Summary.pdf'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/wacv_Summary.png'>"
 collection: portfolio
 ---
 
