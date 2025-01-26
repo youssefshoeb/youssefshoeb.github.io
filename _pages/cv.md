@@ -97,7 +97,7 @@ Work experience
                 <li>Part of the Interoperability and Testing group, where I worked on setting up simulation <br> environments and used reinforcement learning methods for optimization and testing. </li>
                 <li>Implementation and evaluation of reinforcement learning algorithms for multi-agent environments.</li>
                 <li>Investigated the use of graph neural networks for creating a digital twin of a <br> 5G communication network for a reinforcement learning network optimization framework.</li>
-                <li>[Recommendation Letter](/files/pdf/fkie_recommendation.pdf)</li>
+                <li><a href="/files/pdf/fkie_recommendation.pdf">Recommendation Letter</a></li>
             </ul>
         </div>
         <a href="https://www.fkie.fraunhofer.de/en.html">
@@ -112,7 +112,7 @@ Work experience
                 <li>Member of the monikit startup working on an automatic detector for epileptic seizures. </li>
                 <li>Preprocessing and labelling electrocardiogram (EKG) data from hospital records for use by the machine learning team.</li>
                 <li>Visualization and reporting features and meta-data of available data records.</li>
-                <li>[Recommendation Letter](/files/pdf/monikit_recommendation.pdf)</li>
+                <li><a href="/files/pdf/monikit_recommendation.pdf">Recommendation Letter</a></li>
             </ul>
         </div>
         <a href="https://monikit.com/">
@@ -126,7 +126,7 @@ Work experience
                 <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">(Dresden, Germany)</span></li>
                 <li>Investigated the use of deep learning methods in a distributed computing environment.</li>
                 <li>Comparison of different model and data parallelism techniques for different architectures.</li>
-                <li>[Proof of Work](/files/pdf/zih_proof_of_work.pdf)</li>
+                <li><a href="/files/pdf/zih_proof_of_work.pdf.pdf">Proof of Work</a></li>
             </ul>
         </div>
         <a href="https://tu-dresden.de/zih">
