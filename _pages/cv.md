@@ -128,7 +128,6 @@ Work experience
         </a>
     </li>
 </ul>
-
 Skills
 ======
 * Python (NumPy, Pytorch)
