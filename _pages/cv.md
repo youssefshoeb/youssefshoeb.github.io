@@ -112,6 +112,7 @@ Work experience
         </div>
         <a href="https://monikit.com/">
         <img src="/images/logo_monikit.png" alt="monikit" style="width: 150px; height: auto;"/>
+        </a>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
