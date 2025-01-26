@@ -81,7 +81,7 @@ Work experience
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
-        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: auto;"/>
+        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: 150p;"/>
         </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
@@ -128,6 +128,7 @@ Work experience
         </a>
     </li>
 </ul>
+
 Skills
 ======
 * Python (NumPy, Pytorch)
