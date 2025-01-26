@@ -18,7 +18,9 @@ Education
         <div>
             <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
-                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems", emphasis on robust detection, analysis,<br> and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
+                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data<br> 
+                in Autonomous Perception Systems", emphasis on robust detection, analysis, and mitigation<br>
+                and recovery strategies for OoD data in automated-driving applications.</li>
                 <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
@@ -113,6 +115,7 @@ Work experience
         <a href="https://monikit.com/">
         <img src="/images/logo_monikit.png" alt="monikit" style="width: 150px; height: auto;"/>
         </a>
+    </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
@@ -128,7 +131,6 @@ Work experience
         </a>
     </li>
 </ul>
-
 
 Skills
 ======
