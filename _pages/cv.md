@@ -81,7 +81,7 @@ Work experience
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
-        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: 150p;"/>
+        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: 150px;"/>
         </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
