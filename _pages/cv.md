@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF copy of my CV [here](/files/pdf/CV.pdf).
+A one-page PDF copy of my CV is available [here](/files/pdf/CV.pdf).
 
 Education
 ======
@@ -18,7 +18,7 @@ Education
         <div>
             <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
-                <li>Thesis: "Towards a Deeper Understanding of Out-of-Distribution Data in the Lifecycle of AI Components in Automated Driving"</li>
+                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems",emphasis on robust detection, analysis, and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
                 <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
@@ -75,8 +75,9 @@ Work experience
             <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
                 <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
-                <li>Uncertainty estimation and run-time network monitoring</li>
-                <li>Out-of-distribution detection, tracking, and retrieval</li>
+                <li>Part of the Research and Advanced Engineering department, where I work on developing and implementing AI-based methods and tools to collect and process data efficiently.</li>
+                <li>Researched and developed methods for Uncertainty Estimation, Out-of-Distribution Detection, Anomaly Segmentation, Object Tracking, and Information Retrieval for an Active Learning use case.</li>
+                <li>Contributed to several patent applications and research paper submissions and am an active member of the jbDATA (justbetterdata.de) consortium project.</li>
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
@@ -88,8 +89,10 @@ Work experience
             <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">(Bonn, Germany)</span></li>
-                <li>Graph Neural Networks for simulation of 5G communications networks</li>
-                <li>Deep reinforcement learning for strategical games</li>
+                <li>Part of the Interoperability and Testing group, where I worked on setting up simulation environments and used reinforcement learning methods for optimization and testing. </li>
+                <li>Implementation and evaluation of reinforcement learning algorithms for multi-agent environments.</li>
+                <li>Investigated the use of graph neural networks for creating a digital twin of a 5G communication network for a reinforcement learning network optimization framework.</li>
+                <li>[Recommendation Letter](/files/pdf/fkie_recommendation.pdf)</li>
             </ul>
         </div>
         <a href="https://www.fkie.fraunhofer.de/en.html">
@@ -98,11 +101,25 @@ Work experience
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <div>
+            <span>October 2020 - December 2020: <strong>Data Engineer</strong></span>
+            <ul>
+                <li>Monikit, <span style="color: grey; font-size: smaller;">(Bonn, Germany)</span></li>
+                <li>Member of the monikit startup working on an automatic detector for epileptic seizures. </li>
+                <li>Preprocessing and labelling electrocardiogram (EKG) data from hospital records for use by the machine learning team.</li>
+                <li>Visualization and reporting features and meta-data of available data records.</li>
+                <li>[Recommendation Letter](/files/pdf/monikit_recommendation.pdf)</li>
+            </ul>
+        </div>
+        <a href="https://monikit.com/">
+        <img src="/images/logo_monikit.png" alt="monikit" style="width: 150px; height: auto;"/>
+    <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div>
             <span>Feb 2019 - July 2019: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Center for Information Services and High Performance Computing (ZIH), <span style="color: grey; font-size: smaller;">(Dresden, Germany)</span></li>
-                <li>Investigated the use of deep learning methods in a distributed computing environment</li>
-                <li>Comparison of different model and data parallelism techniques for different architectures  </li>
+                <li>Investigated the use of deep learning methods in a distributed computing environment.</li>
+                <li>Comparison of different model and data parallelism techniques for different architectures.</li>
+                <li>[Proof of Work](/files/pdf/zih_proof_of_work.pdf)</li>
             </ul>
         </div>
         <a href="https://tu-dresden.de/zih">
