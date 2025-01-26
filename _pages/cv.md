@@ -18,7 +18,7 @@ Education
         <div>
             <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
-                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems",<br><span style="display: inline-block; margin-bottom: 10px;"></span> emphasis on robust detection, analysis, and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
+                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems", emphasis on robust detection, analysis,<br> and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
                 <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
@@ -75,13 +75,13 @@ Work experience
             <span>Sept 2022 - Present : <strong>Machine Learning Researcher</strong></span>
             <ul>
                 <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
-                <li>Part of the Research and Advanced Engineering department, where I work on developing and implementing AI-based methods and tools to collect and process data efficiently.</li>
-                <li>Researched and developed methods for Uncertainty Estimation, Out-of-Distribution Detection, Anomaly Segmentation, Object Tracking, and Information Retrieval for an Active Learning use case.</li>
-                <li>Contributed to several patent applications and research paper submissions and am an active member of the jbDATA (justbetterdata.de) consortium project.</li>
+                <li>Part of the Research and Advanced Engineering department, where I work on developing <br> and implementing AI-based methods and tools to collect and process data efficiently.</li>
+                <li>Researched and developed methods for Uncertainty Estimation, Out-of-Distribution Detection,<br> Anomaly Segmentation, Object Tracking, and Information Retrieval for an Active Learning use case.</li>
+                <li>Contributed to several patent applications and research paper submissions and <br> I am an active member of the jbDATA (justbetterdata.de) consortium project.</li>
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
-        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: 150px;"/>
+        <img src="/images/conti.png" alt="Continental AG" style="width: 150px; height: auto;"/>
         </a>
     </li>
     <li style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
@@ -89,9 +89,9 @@ Work experience
             <span>Nov 2020 - July 2022: <strong>Research Assistant</strong></span>
             <ul>
                 <li>Fraunhofer FKIE <span style="color: grey; font-size: smaller;">(Bonn, Germany)</span></li>
-                <li>Part of the Interoperability and Testing group, where I worked on setting up simulation environments and used reinforcement learning methods for optimization and testing. </li>
+                <li>Part of the Interoperability and Testing group, where I worked on setting up simulation <br> environments and used reinforcement learning methods for optimization and testing. </li>
                 <li>Implementation and evaluation of reinforcement learning algorithms for multi-agent environments.</li>
-                <li>Investigated the use of graph neural networks for creating a digital twin of a 5G communication network for a reinforcement learning network optimization framework.</li>
+                <li>Investigated the use of graph neural networks for creating a digital twin of a <br> 5G communication network for a reinforcement learning network optimization framework.</li>
                 <li>[Recommendation Letter](/files/pdf/fkie_recommendation.pdf)</li>
             </ul>
         </div>
@@ -128,6 +128,7 @@ Work experience
         </a>
     </li>
 </ul>
+
 
 Skills
 ======
