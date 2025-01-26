@@ -18,7 +18,7 @@ Education
         <div>
             <span><strong>Ph.D in Computer Science </strong>, Technische Universität Berlin, 2025 (expected)</span>
             <ul>
-                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems",emphasis on robust detection, analysis, and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
+                <li>Doctoral Thesis: "Towards a Deeper Understanding of the Lifecycle of Out-of-Distribution Data in Autonomous Perception Systems",<br><span style="display: inline-block; margin-bottom: 10px;"></span> emphasis on robust detection, analysis, and mitigation and recovery strategies for OoD data in automated-driving applications.</li>
                 <li>Supervisor: Prof. Dr. Hanno Gottschalk </li>
             </ul>
         </div>
