@@ -1,0 +1,13 @@
+---
+title: "Segment-Level Road Obstacle Detection Using Visual Foundation Model Priors and Likelihood Ratios"
+collection: publications
+permalink: /publication/shoeb_visapp25
+excerpt: 'Detecting road obstacles is essential for autonomous vehicles to navigate dynamic and complex traffic environments safely. Current road obstacle detection methods typically assign a score to each pixel and apply a threshold to generate final predictions. However, selecting an appropriate threshold is challenging, and the per-pixel classification approach often leads to fragmented predictions with numerous false positives. In this work, we propose a novel method that leverages segment-level features from visual foundation models and likelihood ratios to predict road obstacles directly. By focusing on segments rather than individual pixels, our approach enhances detection accuracy, reduces false positives, and offers increased robustness to scene variability. We benchmark our approach against existing methods on the RoadObstacle and LostAndFound datasets, achieving state-of-the-art performance without needing a predefined threshold.'
+date: 2025-02-14
+venue: '20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.scitepress.org/PublicationsDetail.aspx?ID=aY9SAOANGtI=&t=1'
+citation: 'Shoeb, Y., Nayal, N., Nowzad, A., Güney, F. and Gottschalk, H. (2025). &quot; Segment-Level Road Obstacle Detection Using Visual Foundation Model Priors and Likelihood Ratios &quot; <i> Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 2: VISAPP</i>.'
+---
+
+Detecting road obstacles is essential for autonomous vehicles to navigate dynamic and complex traffic environments safely. Current road obstacle detection methods typically assign a score to each pixel and apply a threshold to generate final predictions. However, selecting an appropriate threshold is challenging, and the per-pixel classification approach often leads to fragmented predictions with numerous false positives. In this work, we propose a novel method that leverages segment-level features from visual foundation models and likelihood ratios to predict road obstacles directly. By focusing on segments rather than individual pixels, our approach enhances detection accuracy, reduces false positives, and offers increased robustness to scene variability. We benchmark our approach against existing methods on the RoadObstacle and LostAndFound datasets, achieving state-of-the-art performance without needing a predefined threshold.
