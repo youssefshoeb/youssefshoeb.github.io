@@ -145,6 +145,11 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patents
+======
+* Vehicle, Apparatus, Computer Program, and Method for Out-of-Distribution Object Detection
+[European Patent Office (EP4465250A1)](https://patents.google.com/patent/EP4465250A1) | [WIPO (WO2024235674)](https://patentscope.wipo.int/search/en/WO2024235674)
   
 <!--Talks
 ======
