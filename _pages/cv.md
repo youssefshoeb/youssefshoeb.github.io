@@ -79,8 +79,8 @@ Work experience
                 <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
                 <li>Part of the Research and Advanced Engineering department, where I work on developing <br> 
                 and implementing AI-based methods and tools to collect and process data efficiently.</li>
-                <li>Developed methods for uncertainty estimation, out-of-distribution detection,<br>
-                anomaly segmentation, object tracking, and information retrieval for a data curation and active learning use case.</li>
+                <li>Developed methods for uncertainty estimation, out-of-distribution detection, anomaly <br>
+                 segmentation, object tracking, and information retrieval for a data curation and <br> active learning use case.</li>
                 <li>Developed automated data quality assessment and silent testing methods <br> to detect model errors and validate perception algorithms.</li>
             </ul>
         </div>
