@@ -79,10 +79,9 @@ Work experience
                 <li>Continental AG <span style="color: grey; font-size: smaller;">(Berlin, Germany)</span> </li>
                 <li>Part of the Research and Advanced Engineering department, where I work on developing <br> 
                 and implementing AI-based methods and tools to collect and process data efficiently.</li>
-                <li>Researched and developed methods for Uncertainty Estimation, Out-of-Distribution Detection,<br>
-                Anomaly Segmentation, Object Tracking, and Information Retrieval<br>
-                for an Active Learning use case.</li>
-                <li>Contributed to several patent applications and research paper submissions and <br> I am an active member of the jbDATA (justbetterdata.de) consortium project.</li>
+                <li>Developed methods for uncertainty estimation, out-of-distribution detection,<br>
+                anomaly segmentation, object tracking, and information retrieval for a data curation and active learning use case.</li>
+                <li>Developed automated data quality assessment and silent testing methods <br> to detect model errors and validate perception algorithms.</li>
             </ul>
         </div>
         <a href="https://www.continental-automotive.com/en.html">
